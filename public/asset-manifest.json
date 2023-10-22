@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39cbf3c9.css",
+    "main.js": "/static/js/main.541a320d.js",
+    "static/js/787.a92e7531.chunk.js": "/static/js/787.a92e7531.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/banner4.jpg": "/static/media/banner4.2652fd8d09ff0c3d9e7a.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/stats.jpg": "/static/media/stats.671a9d502dd578f61a18.jpg",
+    "static/media/f8.jpg": "/static/media/f8.4c5112a7d03af2e8e55c.jpg",
+    "static/media/bannerimg.jpg": "/static/media/bannerimg.49937610754fb2d796c1.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/f1.jpg": "/static/media/f1.c72a5b698df6117c57d5.jpg",
+    "static/media/bg.jpg": "/static/media/bg.f5ad071f8000cb1a713d.jpg",
+    "static/media/f2.jpg": "/static/media/f2.33e422dda997d28d4cd5.jpg",
+    "static/media/f5.jpg": "/static/media/f5.3e1bff8072aa47f3e561.jpg",
+    "static/media/f7.jpg": "/static/media/f7.df68d3fdbdd6ae86b720.jpg",
+    "static/media/f3.jpg": "/static/media/f3.ffdd03e59d266f7f3d03.jpg",
+    "static/media/about.jpg": "/static/media/about.70cd9f24190aeeaa16e3.jpg",
+    "static/media/f4.jpg": "/static/media/f4.b87f29ce072fd15c7d24.jpg",
+    "static/media/video.jpg": "/static/media/video.6c6b6a557ac94e5a6a64.jpg",
+    "static/media/f6.jpg": "/static/media/f6.2829fbaadb6360721a18.jpg",
+    "static/media/face10.jpg": "/static/media/face10.eb4f65b6bf7e9f039c57.jpg",
+    "static/media/face12.jpg": "/static/media/face12.d08d6d866d246cdbeb02.jpg",
+    "static/media/logo.svg": "/static/media/logo.b8957d02d6a007ce048d82c1ce496af5.svg",
+    "index.html": "/index.html",
+    "static/media/logo-mini.svg": "/static/media/logo-mini.1ebd473bdef0a17860f0d0cedae1dff5.svg",
+    "main.39cbf3c9.css.map": "/static/css/main.39cbf3c9.css.map",
+    "main.541a320d.js.map": "/static/js/main.541a320d.js.map",
+    "787.a92e7531.chunk.js.map": "/static/js/787.a92e7531.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39cbf3c9.css",
+    "static/js/main.541a320d.js"
+  ]
+}
